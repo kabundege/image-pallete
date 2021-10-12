@@ -17,7 +17,6 @@ window.onload = e => {
     // imager(img)
 
     res = pallete[1]
-    console.log(pallete);
 
     document.body.style.background = `rgb(${res[0]},${res[1]},${res[2]})`
 }
